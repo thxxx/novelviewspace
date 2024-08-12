@@ -1,0 +1,9 @@
+__pycache__
+res/
+results/
+dataset/chairs/
+dataset/drums/
+dataset/hotdogs/
+dataset/legos/
+dataset/mic/
+dataset/ships/
